@@ -38,3 +38,11 @@ options: abcdefghijklmnopqrstuvwxyz
 $>./options -%
 Invalid Option
 ```
+## Téléchargement
+```
+git clone https://github.com/manki23/options.git ; cd options
+```
+## Compilation
+```
+gcc *.c -o options
+```
